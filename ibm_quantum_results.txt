@@ -1,0 +1,6 @@
+QMM-CardioNet IBM Quantum Job
+Backend : ibm_fez
+Job ID  : d6rattfr88ds73ddaepg
+URL     : https://quantum.ibm.com/jobs/d6rattfr88ds73ddaepg
+Qubits  : 8
+Depth   : 187

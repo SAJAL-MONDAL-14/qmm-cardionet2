@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pkl
+*.pth
+*.npz
+*.zip
+.env
+
+data/
+saved_models/
+
+evaluation_results/
