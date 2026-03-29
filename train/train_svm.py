@@ -53,19 +53,6 @@
 
 
 
-
-"""
-train_svm.py  —  Fair Comparison Version
-==========================================
-IMPORTANT FOR RESEARCH PAPER:
-  Uses the SAME cached dataset as train_multimodal.py
-  → fair apple-to-apple comparison between all models
-  → all models trained on identical 12000 samples
-
-Run:  python train/train_svm.py
-Saved → saved_models/svm_model.pkl
-"""
-
 import os, sys
 import numpy as np
 import joblib

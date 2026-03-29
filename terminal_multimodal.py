@@ -1,15 +1,3 @@
-"""
-terminal_multimodal.py  —  Interactive ECG Prediction Terminal
-==============================================================
-Features:
-  1. Input patient data (age, sex, ECG path) via terminal
-  2. Extract 325 features from ECG
-  3. Run through trained Quantum Multimodal model
-  4. Show prediction + confidence score
-  5. Draw IBM Quantum circuit diagram (optional)
-
-Run:  python terminal_multimodal.py
-"""
 
 import os
 import sys
